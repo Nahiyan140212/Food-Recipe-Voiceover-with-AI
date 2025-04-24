@@ -2,3 +2,4 @@ streamlit
 euriai 
 gtts
 python-dotenv
+langchain
