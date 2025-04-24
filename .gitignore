@@ -1,0 +1,36 @@
+# Sensitive files
+.env
+.streamlit/secrets.toml
+
+# Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Temporary files
+*.mp3
+*.tmp
+*.temp
+
+# Streamlit-specific
+.streamlit/cache/
+.streamlit/logs/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Python package and build files
+dist/
+build/
+*.egg-info/
+pip-wheel-metadata/

@@ -1,0 +1,4 @@
+streamlit 
+euriai 
+gtts
+python-dotenv
